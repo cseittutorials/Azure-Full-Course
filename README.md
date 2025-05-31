@@ -1,4 +1,4 @@
-# 🌥️ Azure Cloud & DevOps - 30 Part Learning Challenge
+# 🌥️ Azure Cloud & DevOps - Complete Learning from Zero to Hero
 
 Welcome to the 30-Part Azure Learning Plan — a hands-on roadmap to master Azure fundamentals, services, DevOps, and real-world projects.
 
