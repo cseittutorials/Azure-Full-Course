@@ -1,0 +1,56 @@
+☁️ Introduction to Cloud Computing
+Cloud computing is the delivery of computing services—such as servers, storage, databases, networking, software, analytics, and more—over the internet ("the cloud"). It enables faster innovation, flexible resources, and economies of scale.
+
+📌 Key Characteristics
+On-Demand Self-Service: Users can access computing resources as needed without human interaction with the service provider.
+
+Broad Network Access: Services are available over the network and accessed through standard mechanisms (e.g., browser, APIs).
+
+Resource Pooling: Computing resources are pooled to serve multiple customers.
+
+Rapid Elasticity: Resources can be scaled up or down quickly to meet demand.
+
+Measured Service: Resource usage is monitored, controlled, and reported for transparency.
+
+🌐 Types of Cloud Deployment Models
+Model	Description
+Public Cloud	Services offered over the public internet by third-party providers (e.g., AWS, Azure, GCP).
+Private Cloud	Used exclusively by a single organization. May be hosted on-premise or in a data center.
+Hybrid Cloud	Combines public and private clouds to share data and applications between them.
+
+🧩 Cloud Service Models
+Model	Also Called	Purpose
+IaaS	Infrastructure as a Service	Provides virtualized computing resources over the internet (e.g., VMs, storage).
+PaaS	Platform as a Service	Offers development tools, database management, and deployment services.
+SaaS	Software as a Service	Delivers software applications via the internet (e.g., Gmail, Office 365).
+
+🚀 Benefits of Cloud Computing
+💸 Cost-Efficient: Pay-as-you-go model, no need for heavy upfront investment
+
+📈 Scalable: Easily scale resources up or down
+
+🛡️ Reliable: Built-in data backup and disaster recovery
+
+⏱️ Fast Deployment: Faster time-to-market with automated provisioning
+
+🌍 Global Access: Access resources from anywhere with internet
+
+💬 Common Cloud Providers
+Amazon Web Services (AWS)
+
+Microsoft Azure
+
+Google Cloud Platform (GCP)
+
+IBM Cloud
+
+Oracle Cloud
+
+📘 Basic Cloud Terminologies
+Term	Description
+Instance	A virtual machine or compute resource
+Region	A geographical location where cloud data centers are located
+Availability Zone	Isolated data center within a region
+Virtual Network (VNet)	A logically isolated network in the cloud
+Storage Account	A container for blobs/files/disks in cloud
+Serverless	Code execution without managing servers (e.g., AWS Lambda, Azure Functions)
